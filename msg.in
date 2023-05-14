@@ -1,0 +1,20 @@
+{
+    "src": "c1",
+    "dst": "n1",
+    "body": {
+        "echo": {
+            "type": "send",
+            "msg": "echo from c1"
+        } 
+    }
+}
+{
+    "src": "c1",
+    "dst": "n1",
+    "body": {
+        "echo": {
+            "type": "send",
+            "msg": "echo from c1"
+        } 
+    }
+}
